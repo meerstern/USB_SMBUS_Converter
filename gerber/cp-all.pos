@@ -1,0 +1,17 @@
+### Module positions - created on 2020/05/23 15:23:38 ###
+### Printed by Pcbnew version kicad (5.1.2)-1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val          Package                                   PosX       PosY       Rot  Side
+C1        0.1u         C_0603_1608Metric                     117.6000  -136.7680  270.0000  top
+C2        4.7u         C_0805_2012Metric                     115.2920  -126.9600  180.0000  top
+C3        4.7u         C_0805_2012Metric                     115.7600  -136.9600  270.0000  top
+C4        1u           C_0603_1608Metric                     119.2200  -136.7720  270.0000  top
+F1        Fuse         Fuse_0603_1608Metric                  116.9200  -142.4300   90.0000  top
+J2        USB_B_Micro  CONN-10118194-0001LF-FCI              120.1000  -148.7000    0.0000  top
+R1        4.7k         R_0603_1608Metric                     119.3200  -126.3680   90.0000  top
+R2        4.7k         R_0603_1608Metric                     121.0800  -126.3680   90.0000  top
+R3        4.7k         R_0603_1608Metric                     120.7600  -136.7800   90.0000  top
+U1        USBLC6-2     SOT-23-6                              119.9700  -142.0800  270.0000  top
+U2        CP2112       QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm   117.0000  -131.6000   90.0000  top
+## End
