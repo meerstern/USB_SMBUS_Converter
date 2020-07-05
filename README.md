@@ -5,6 +5,7 @@ USB SMBus converter with CP2112
   * [CP2112][1]を使用したUSB-SMBUS/I2C変換基板です  
   * [Simplicity Studio][2]を使用してVIDやPID等のパラメータを設定変更できます  
   * [USBオーディオブリッジ CP2615][3]のパラメータ書き換えに最適です  
+  * サイズ30mm x20mm 
 
 ## 注意
  * [Simplicity Studio][2]を使用したパラメータ書き換えはOne-Time Programmable ROMで1回のみです  
