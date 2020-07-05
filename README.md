@@ -4,8 +4,7 @@ USB SMBus converter with CP2112
 ## 概要 
   * [CP2112][1]を使用したUSB-SMBUS/I2C変換基板です  
   * [Simplicity Studio][2]を使用してVIDやPID等のパラメータを設定変更できます  
-
-
+  * [USBオーディオブリッジ CP2615][3]のパラメータ書き換えに最適です  
 
 ## 注意
  * [Simplicity Studio][2]を使用したパラメータ書き換えはOne-Time Programmable ROMで1回のみです  
@@ -26,4 +25,7 @@ USB SMBus converter with CP2112
   
 [1]: https://jp.silabs.com/interface/usb-bridges/classic/device.cp2112
 [2]: https://jp.silabs.com/products/development-tools/software/simplicity-studio
+[3]: https://github.com/meerstern/USB_PDM_Converter
 
+  <img src="https://github.com/meerstern/USB_SMBUS_Converter/blob/master/img1.jpg" width="360"> 
+  <img src="https://github.com/meerstern/USB_SMBUS_Converter/blob/master/img2.jpg" width="360"> 
