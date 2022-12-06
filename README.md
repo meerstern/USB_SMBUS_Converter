@@ -23,10 +23,13 @@ USB SMBus converter with CP2112
 |  Product Description String  |  CP2112 HID USB-to-SMBus Bridge  |
 |  Serial String  |  Unique 8-character ASCII string |  
 
-  
+## 販売サイト
+  * [スイッチサイエンス][4]
+ 
 [1]: https://jp.silabs.com/interface/usb-bridges/classic/device.cp2112
 [2]: https://jp.silabs.com/products/development-tools/software/simplicity-studio
 [3]: https://github.com/meerstern/USB_PDM_Converter
+[4]: https://www.switch-science.com/products/6489
 
   <img src="https://github.com/meerstern/USB_SMBUS_Converter/blob/master/img1.jpg" width="360"> 
   <img src="https://github.com/meerstern/USB_SMBUS_Converter/blob/master/img2.jpg" width="360"> 
